@@ -20,7 +20,7 @@
 <a href= https://github.com/JhonnyRamos04?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href= https://github.com/JhonnyRamos04?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 <a href= https://github.com/JhonnyRamos04?tab=repositories&q=&type=&language=astro&sort= > <img width ='32px' src
-='https://raw.githubusercontent.com/pheralb/svgl/main/static/library/astro.svg'> </a>
+='https://raw.githubusercontent.com/pheralb/svgl/main/static/library/astro_dark.svg'> </a>
 <a href= https://github.com/JhonnyRamos04?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 <a href= https://github.com/JhonnyRamos04?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
 
