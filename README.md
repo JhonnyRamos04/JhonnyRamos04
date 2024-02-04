@@ -12,6 +12,21 @@
 - 🎮 Game Developer
 <br>
 
+<h3>Languages</h3></summary>
+            <p align="center">
+        <a href="https://github.com/JhonnyRamos04">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonnyRamos04&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+          alt="1999AZZAR :: overall Top Langs " /></a>
+      </p>
+        <p align="center">
+          <a href="https://github.com/JhonnyRamos04">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JhonnyRamos04&theme=gruvbox&layout=compact&hide_border=true"
+          alt="1999AZZAR :: Top Langs by repo" />
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JhonnyRamos04&theme=gruvbox&layout=compact&hide_border=true"
+          alt="1999AZZAR :: Top Langs by commit" />
+          </a>
+        </p>
+
  
 
 <!--
