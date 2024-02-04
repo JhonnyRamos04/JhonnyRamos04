@@ -12,20 +12,21 @@
 - 🎮 Game Developer
 <br>
 
-<h3>Languages</h3></summary>
-            <p align="center">
-        <a href="https://github.com/JhonnyRamos04">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonnyRamos04&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
-          alt="1999AZZAR :: overall Top Langs " /></a>
-      </p>
-        <p align="center">
-          <a href="https://github.com/JhonnyRamos04">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JhonnyRamos04&theme=gruvbox&layout=compact&hide_border=true"
-          alt="1999AZZAR :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JhonnyRamos04&theme=gruvbox&layout=compact&hide_border=true"
-          alt="1999AZZAR :: Top Langs by commit" />
-          </a>
-        </p>
+<h3>My Statistics</h3>
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=JhonnyRamos04&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="adam-pw" 
+    bg_color=#808080/></p>
+
+<br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JhonnyRamos04&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="adam-pw" /></p>
+
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JhonnyRamos04&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
+      
 
  
 
