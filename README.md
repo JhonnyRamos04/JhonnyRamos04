@@ -11,7 +11,7 @@
 - 👨‍🎓 University student 
 - 💻 Web Developer
 - 🎮 Game Developer
-- 📖 I’m currently learning Python
+- 📖 I’m currently learning NodeJS
 <br>
 
 <!-- Tech Skills -->
