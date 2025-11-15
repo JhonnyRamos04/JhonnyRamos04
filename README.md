@@ -30,10 +30,10 @@
 <!-- Statistics -->
 
 <h3>My Statistics</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=JhonnyRamos04&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" 
-    bg_color=#808080/></p>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=jhonnyramos04&theme=dark&show_icons=true">
+    <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=jhonnyramos04&show_icons=true">
+</picture>
 
 <br>
 
