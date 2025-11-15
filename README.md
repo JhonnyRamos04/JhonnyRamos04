@@ -20,8 +20,6 @@
 <a href= https://github.com/JhonnyRamos04?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
 <a href= https://github.com/JhonnyRamos04?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/pheralb/svgl/main/static/library/javascript.svg'> </a>
 <a href= https://github.com/JhonnyRamos04?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src   ='https://raw.githubusercontent.com/pheralb/svgl/main/static/library/csharp.svg'> </a>
-<a href= https://github.com/JhonnyRamos04?tab=repositories&q=&type=&language=astro&sort= > <img width ='24px' src
-='https://raw.githubusercontent.com/pheralb/svgl/main/static/library/astro_dark.svg'> </a>
 <a href= https://github.com/JhonnyRamos04?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src 
 ='https://raw.githubusercontent.com/pheralb/svgl/main/static/library/css.svg'> </a>
 <a href= https://github.com/JhonnyRamos04?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src      ='https://raw.githubusercontent.com/pheralb/svgl/main/static/library/html5.svg'> </a>
@@ -32,9 +30,9 @@
 <h3>My Statistics</h3>
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=jhonnyramos04&theme=dark&show_icons=true">
-    <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=jhonnyramos04&show_icons=true">
-  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=JhonnyRamos04&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
+    <img align="center" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=jhonnyramos04&show_icons=true">
 </picture>
+<img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=JhonnyRamos04&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" />
 
 
       
