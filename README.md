@@ -33,9 +33,10 @@
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=jhonnyramos04&theme=dark&show_icons=true">
     <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=jhonnyramos04&show_icons=true">
+  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=JhonnyRamos04&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
 </picture>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=JhonnyRamos04&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
+
       
 
  
