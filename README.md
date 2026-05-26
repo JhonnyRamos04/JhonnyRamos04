@@ -9,9 +9,9 @@
 ## About me
 
 - 👨‍🎓 University student 
-- 💻 Web Developer
+- 💻 Fullstack Developer
 - 🎮 Game Developer
-- 📖 I’m currently learning NodeJS
+- 📖 I’m currently learning NestJS
 <br>
 
 <!-- Tech Skills -->
