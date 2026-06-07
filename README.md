@@ -51,8 +51,7 @@
 
 <br>
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=jhonnyramos04&theme=dark&show_icons=true&count_private=true">
-    <img align="center" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=jhonnyramos04&show_icons=true&count_private=true">
+    <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JhonnyRamos04&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </picture>
 <img align="center" width="50%" src="https://streak-stats.demolab.com/?user=JhonnyRamos04&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="JhonnyRamos04 Streak Stats" />
 
