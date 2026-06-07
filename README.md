@@ -1,36 +1,53 @@
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Jhonny</h1></summary>
-  </ul>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Jhonny;Fullstack+Developer+%F0%9F%9A%80;Game+Developer+%F0%9F%8E%AE;Always+learning+%F0%9F%93%9A" alt="Typing SVG" />
 </div>
 
-<!-- About me -->
+## About Me
 
-## About me
+<img align="right" alt="Coding gif" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/main/gif3.gif">
 
-- 👨‍🎓 University student 
+- 🎓 University student
 - 💻 Fullstack Developer
-- 🎮 Game Developer
-- 📖 I’m currently learning NestJS
-<br>
+- 🎮 Indie Game Developer
+- 🌱 Currently learning **NestJS**
 
-<!-- Tech Skills -->
+<br clear="right"/>
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://github.com/JhonnyRamos04?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-<a href= https://github.com/JhonnyRamos04?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/pheralb/svgl/main/static/library/javascript.svg'> </a>
-<a href= https://github.com/JhonnyRamos04?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src   ='https://raw.githubusercontent.com/pheralb/svgl/main/static/library/csharp.svg'> </a>
-<a href= https://github.com/JhonnyRamos04?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src 
-='https://raw.githubusercontent.com/pheralb/svgl/main/static/library/css.svg'> </a>
-<a href= https://github.com/JhonnyRamos04?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src      ='https://raw.githubusercontent.com/pheralb/svgl/main/static/library/html5.svg'> </a>
+## 🛠️ Tech Stack
 
+**Languages**
 
+<p>
+  <a href="https://github.com/JhonnyRamos04?tab=repositories&q=&type=&language=javascript&sort=">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  </a>
+  <a href="https://github.com/JhonnyRamos04?tab=repositories&q=&type=&language=csharp&sort=">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  </a>
+  <a href="https://github.com/JhonnyRamos04?tab=repositories&q=&type=&language=css&sort=">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  </a>
+  <a href="https://github.com/JhonnyRamos04?tab=repositories&q=&type=&language=html&sort=">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  </a>
+</p>
+
+**Frameworks & Tools**
+
+<p>
+  <a href="https://github.com/JhonnyRamos04?tab=repositories&q=&type=&language=reactjs&sort=">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  </a>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" alt="Unity"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
+</p>
+
+---
 <!-- Statistics -->
 <h3>My Statistics</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=JhonnyRamos04&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" 
-    bg_color=#808080/></p>
 
 <br>
 <picture>
